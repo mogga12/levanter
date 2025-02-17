@@ -82,5 +82,5 @@ module.exports = {
   CMD_REACTION: process.env.CMD_REACTION || 'true',
   AUTO_UPDATE: process.env.AUTO_UPDATE || 'true',
   WHITE_LIST: process.env.WHITE_LIST || '',
-  BOT_LANG: process.env.BOT_LANG || 'english',
+  BOT_LANG: process.env.BOT_LANG || 'english',levanter_18557f37c8504945eb9756139b1417c44c
 }
